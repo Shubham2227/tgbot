@@ -1,3 +1,4 @@
+/*awesome*/
 <?php
 
 /**
